@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: f08143637decdec4eb3270ac2ceb624e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mesh: {instanceID: 0}
+  - energyball: {instanceID: 0}
+  - enemyHPInfo: {fileID: 9059159239042762031, guid: 275521286924b6f42bae7c299ec22bda, type: 3}
+  - enemySlider: {fileID: 8574532212238089954, guid: db383bd5704fe6a46b888295babaccb3, type: 3}
+  - deathParticles: {instanceID: 0}
+  - enemyHealthNumber: {fileID: 2203784084427694445, guid: ad22ac716a59bf14190e5ceb0212a7a7, type: 3}
+  - laserSound: {instanceID: 0}
+  - explosionSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
